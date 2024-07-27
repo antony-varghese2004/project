@@ -1,0 +1,27 @@
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    padding-right: 10px;
+}
+body{
+    background-image: url("Day.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.para{
+    margin-left: 10%;
+}
+.pro{
+    background-color: black;
+}
+nav a:link,nav a:active,nav a:visited,nav a:hover{
+    color: white;
+}
